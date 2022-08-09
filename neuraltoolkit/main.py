@@ -1,7 +1,8 @@
-import pandas as pd
+import pandas
 
 def createDF(list):
-    return pd.DataFrame(list)
+    from pandas import DataFrame
+    return DataFrame(list)
 
 def func(x):
     print(f'func {x} = {x}')
