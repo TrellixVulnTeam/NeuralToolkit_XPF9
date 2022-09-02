@@ -1,5 +1,5 @@
 import pandas as pd
-import pedros
+from . import pedros
 
 def multi(x, y):
     return x*y
