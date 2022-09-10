@@ -1,5 +1,6 @@
 README.md
 setup.py
+neuraltoolkit/NeuralDataSet.py
 neuraltoolkit/__init__.py
 neuraltoolkit/data.py
 neuraltoolkit/main.py
