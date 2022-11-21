@@ -3,6 +3,7 @@ setup.py
 neuraltoolkit/Animal.py
 neuraltoolkit/NeuralDataSet.py
 neuraltoolkit/Report.py
+neuraltoolkit/_AnalysisScreen.py
 neuraltoolkit/_DataScreen.py
 neuraltoolkit/__init__.py
 neuraltoolkit/main.py

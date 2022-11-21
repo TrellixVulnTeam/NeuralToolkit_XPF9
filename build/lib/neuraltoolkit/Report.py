@@ -1,7 +1,7 @@
 import ipywidgets as ipw
 from ipywidgets import Tab
-from . import Animal, _DataScreen, _AnalysisScreen
-from .search import drive_search
+from neuraltoolkit import Animal, _DataScreen, _AnalysisScreen
+from neuraltoolkit.search import drive_search
 import logging.config
 
 class Report(Tab):
