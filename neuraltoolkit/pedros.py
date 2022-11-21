@@ -9,7 +9,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-
 class LocalPopulation:
   def __init__ (self, kpath, name):
     self.name = name

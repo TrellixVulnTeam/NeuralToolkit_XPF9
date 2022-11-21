@@ -1,9 +1,9 @@
 Metadata-Version: 1.0
 Name: neuraltoolkit
-Version: 0.0.1
-Summary: My first Python library
+Version: 0.1.0
+Summary: Toolkit for Neural Data Analyisis
 Home-page: UNKNOWN
-Author: Me
+Author: izaquielcordeiro
 Author-email: UNKNOWN
 License: MIT
 Description: UNKNOWN
