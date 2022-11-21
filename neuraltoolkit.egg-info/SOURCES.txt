@@ -2,6 +2,7 @@ README.md
 setup.py
 neuraltoolkit/Animal.py
 neuraltoolkit/NeuralDataSet.py
+neuraltoolkit/NeuralGUI.py
 neuraltoolkit/Report.py
 neuraltoolkit/_AnalysisScreen.py
 neuraltoolkit/_DataScreen.py
