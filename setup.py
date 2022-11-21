@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 setup(
     name='neuraltoolkit',
     packages=find_packages(include=['neuraltoolkit']),
-    version='0.1.0',
+    version='0.1.5',
     description='Toolkit for Neural Data Analyisis',
     author='izaquielcordeiro',
     license='MIT',
