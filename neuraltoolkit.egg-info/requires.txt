@@ -3,6 +3,5 @@ numpy
 klusta
 matplotlib
 plotly
-os
 ipywidgets
 IPython
